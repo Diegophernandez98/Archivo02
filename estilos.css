@@ -1,0 +1,31 @@
+.letras {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12;
+    color: white;
+    text-align: center;
+}
+
+.letras-titulos {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20;
+    color: rgb(139, 82, 153);
+    box-shadow: 4px 3px 6px rgb(156, 30, 30);
+    padding-top: 2%;
+    text-align: center;
+}
+
+.botones {
+    background-color:black;
+    color:white; 
+    border-color: rgb(97, 66, 146);
+    box-shadow: 2px 5px 6px 2px rgb(74, 38, 95);
+    margin-top: 2%;
+    margin-left: -5%;
+    margin-bottom: 10%;
+    padding: 1% 6% 1% 6%;
+}
+
+
+.letras-sombras {
+    text-shadow: rgb(210, 132, 247) 0.45em 0.5em 0.23em;
+}
